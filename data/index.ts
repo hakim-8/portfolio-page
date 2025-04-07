@@ -151,11 +151,11 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
-  // {
-  //   id: 4,
-  //   title: "Web Development Consultation",
-  //   desc: "Provided web development consulting for a SMMA, focusing on design, optimization and feature implementation to improve usability and performance.",
-  //   className: "md:col-span-2",
-  //   thumbnail: "/exp4.svg",
-  // },
+  {
+    id: 4,
+    title: "Social Media Management Apprentice",
+    desc: "Assisted in managing social media accounts, managing social media ads, creating content, scheduling posts, analyzing performance, and engaging with audiences to boost growth.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
 ];
