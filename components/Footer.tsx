@@ -8,7 +8,6 @@ import {
   FaLinkedin,
   FaLocationArrow,
 } from "react-icons/fa";
-import { IoIosContact } from "react-icons/io";
 export const Footer = () => {
   return (
     <footer className="w-full pt-20" id="contact">

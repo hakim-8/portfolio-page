@@ -1,7 +1,6 @@
 "use client";
 import { workExperience } from "@/data";
 import React from "react";
-import MagicButton from "./ui/MagicButton";
 import { Button } from "./ui/MovingBorder";
 
 const Experience = () => {

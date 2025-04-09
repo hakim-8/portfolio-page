@@ -3,7 +3,6 @@ import { Footer } from "@/components/Footer";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
-import Image from "next/image";
 
 export default function Home() {
   return (
