@@ -96,12 +96,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Beta Blog Site",
-    des: "The Blog App is a full-stack CRUD application, built with Node.js, it allows for secure user authentication and integrates SQLite for efficient data storage. Key features include secure login with JWT tokens and encrypted password storage with bcrypt",
+    title: "Construction Company Website",
+    des: "This website built for Homestyle Concepts KE is a modern web app built with Next.js and React. It features a responsive design and integrates EmailJS to enable direct messaging via a dynamic contact form, ensuring seamless client communication.",
     img: "/s4.png",
-    iconLists: ["/express.png", "/sql.png", "/ejs.avif", "/jwt.png", "/c.svg"],
-    link: "https://blog-app-backend-project-mhmm.netlify.app/",
-    gitHubLink: "https://github.com/hakim-8/blog-app-backend-project",
+    iconLists: ["/sql.png", "/next.svg", "/react.webp", "/c.svg", "/js.svg"],
+    link: "https://homestyleconcepts.co.ke",
+    gitHubLink: "https://github.com/hakim-8",
   },
   {
     id: 5,

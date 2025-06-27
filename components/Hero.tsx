@@ -36,7 +36,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-xl">
-            Hi I&apos;m Hakim a Full Stack Developer based in Kenya
+            Hi I&apos;m a Full Stack Developer based in Kenya
           </p>
           <a href="/#projects">
             <MagicButton

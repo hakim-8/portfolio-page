@@ -28,7 +28,7 @@ const RecentProjects = () => {
                   <img
                     src={img}
                     alt={title}
-                    className="z-10 absolute bottom-0"
+                    className="absolute inset-0 w-full h-full object-contain z-10"
                   />
                 </div>
                 <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1 pb-3">
@@ -61,7 +61,7 @@ const RecentProjects = () => {
               {/* MagicButton below PinContainer */}
               <a href={gitHubLink} className="mb-10 pb-3">
                 <MagicButton
-                  title="Github source code"
+                  title="Github Repository"
                   icon={<FaGithub />}
                   position={"right"}
                 />
